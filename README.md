@@ -1,4 +1,4 @@
-​<h1 align="center">:rocket: Genymotion_ARM_Translation :rocket: </h1>
+<h1 align="center">:rocket: Genymotion_ARM_Translation :rocket: </h1>
 
 <p align="center">
 <a href="https://github.com/m9rc0">
@@ -19,6 +19,7 @@
     ├── Genymotion-ARM-Translation_for_5.1.zip
     ├── Genymotion-ARM-Translation_for_6.0.zip
     ├── Genymotion-ARM-Translation_for_7.X.zip
+    ├── Genymotion-ARM-Translation_for_xxx.zip
     └── Genymotion-ARM-Translation_for_8.0.zip
 ```
 
@@ -30,6 +31,7 @@
 * [6.0](/package/Genymotion-ARM-Translation_for_6.0.zip)
 * [7.X](/package/Genymotion-ARM-Translation_for_7.X.zip)
 * [8.0](/package/Genymotion-ARM-Translation_for_8.0.zip)
+* [xx](/package/Genymotion-ARM-Translation_for_xx.zip)
 
 ## Genymotion Can't install the APK solution:
 
